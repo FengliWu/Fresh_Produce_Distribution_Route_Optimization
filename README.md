@@ -20,8 +20,7 @@ Fresh Produce Distribution Route Optimization
 |   ├── Reverse.m
 |   ├── Select.m
 |   ├── timepunish.m
-|   ├── Tsp2Vrp.m
-|   └── 自定义数据.xlsx 
+|   └── Tsp2Vrp.m
 ├── result preview/
 |   ├── Improved_algorithm_result.fig 
 |   └── Traditional_algorithm_result.fig
