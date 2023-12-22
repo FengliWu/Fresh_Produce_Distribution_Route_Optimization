@@ -1,7 +1,7 @@
 # Fresh_Produce_Distribution_Route_Optimization
 
 ## Description
-A solution to fresh distribution VRPTW based on improved genetic algorithm
+A solution to fresh produce distribution VRPTW based on improved genetic algorithm
 
 ## Project Structure
 ```
