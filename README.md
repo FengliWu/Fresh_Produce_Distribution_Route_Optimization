@@ -1,13 +1,13 @@
 # Fresh_Produce_Distribution_Route_Optimization
 
 ## Description
-This project is optimization of fresh produce distribution route using MATLAB.
+A solution to fresh distribution VRPTW based on improved genetic algorithm
 
 ## Project Structure
 ```
 Fresh Produce Distribution Route Optimization
 ├── data/
-|   └── 自定义数据/   # data source
+|   └── 自定义数据/   # data
 ├── src/
 |   ├── Cross.m
 |   ├── fit.m
