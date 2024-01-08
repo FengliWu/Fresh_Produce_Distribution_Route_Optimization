@@ -7,7 +7,7 @@ A solution to fresh produce distribution VRPTW based on improved genetic algorit
 ```
 Fresh Produce Distribution Route Optimization
 ├── data/
-|   └── 自定义数据/   # data
+|   └── data.xlsx
 ├── src/
 |   ├── Cross.m
 |   ├── fit.m
